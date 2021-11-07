@@ -1,1 +1,1 @@
-Meu nome é Henrique, sou estudante de engenharia de controle e automação. Atualmente tenho estudado C e C#
+My name is Henrique Pereira Ramos, I'm a 22 yo Computer science Student.
